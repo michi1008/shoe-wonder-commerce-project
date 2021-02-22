@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Truculenta', sans-serif;
+  background-color: #ab82ab;
+  background-image: url("https://www.transparenttextures.com/patterns/checkered-light-emboss.png");
+}
