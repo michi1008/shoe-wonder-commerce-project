@@ -12,7 +12,7 @@ export default makeStyles((theme) => ({
     paddingTop: '15%',
     fontFamily: "'Truculenta', sans-serif",
     color: '#822659',
-    fontSize: '3rem'
+    fontSize: '2rem'
   },
   emptyButton: {
     minWidth: '150px',
